@@ -63,5 +63,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" height="400px" object-fit:cover >
 <br><br>
 
-<div class="tenor-gif-embed" data-postid="7954047274342710151" data-share-method="host" data-aspect-ratio="1.992" data-width="100%"><a href="https://tenor.com/view/lookback-look-back-anime-anime-smile-smile-gif-7954047274342710151">Lookback Look Back GIF</a>from <a href="https://tenor.com/search/lookback-gifs">Lookback GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
