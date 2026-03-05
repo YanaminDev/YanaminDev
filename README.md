@@ -64,7 +64,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br><br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/bmJz2once4cAAAAd/lookback-look-back.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/bmJz2once4cAAAAd/lookback-look-back.gif" width="100%"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
