@@ -15,9 +15,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 👥  I'm looking to collaborate on Social Media Platform , Machine Learning and Deep Learning
 * 💬  Ask me about My social media you can contact me : Instragram( sxn\_boxs ) , GitHub( YanaminDev )
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sxn_boxs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiraphat.b.yanamin@gmail.com) 
 
