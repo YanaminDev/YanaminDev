@@ -1,9 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thiraphat Prachan ( Boss )
 ==========================================================================================================================================
-<div align="center">
+<!-- <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br>
-</div>
+</div> -->
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
 # 💫 About Me:
 Hello, my name is Thiraphat Prachan. I am a web developer and currently a university student in the Faculty of Engineering, majoring in Computer Engineering from Thailand.<br><br>I am passionate about technology and continuously improving my skills in both front-end and back-end development. I enjoy building web applications, learning new frameworks, and understanding system architecture and database design.<br><br>I have some hands-on working experience in developing web projects, including designing user interfaces, building RESTful APIs, and working with databases. These experiences have helped me understand real-world development processes, teamwork, and problem-solving in professional environments.<br><br>Currently, I am expanding my knowledge in full-stack development, software engineering principles, and modern development tools. I am always eager to learn new technologies and improve my coding skills to build efficient, scalable, and user-friendly applications.<br><br>My goal is to grow as a professional software engineer and contribute to meaningful and impactful technology projects in the future.
